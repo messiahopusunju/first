@@ -1,0 +1,19 @@
+variable/identifier : is a place hoder
+
+declare variable
+
+let, const and var
+
+Concatenation: join two or more strings
+
+to concatenate in js: +pr `${}`
+
+5000
+
+send
+
+you have successfully transferred 5000 to ...
+
+prompt: string "mike"
+
+I = PRT/100
